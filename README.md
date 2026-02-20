@@ -19,7 +19,7 @@ I enjoy designing structured data solutions, optimizing SQL queries, and transfo
 
 This project follows the **Medallion Architecture** approach using **Bronze, Silver, and Gold layers**:
 
-!(docs/data_architecture.png)
+![Data Architecture](docs/data_architecture.jpeg)
 
 ### 🔹 Bronze Layer
 
